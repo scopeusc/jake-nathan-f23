@@ -1,3 +1,14 @@
 from django.db import models
 
-# Create your models here.
+# Question:
+# text
+# date
+
+# Answer
+# Question
+# Username
+# Date
+# Answer Text
+# IsRevealed
+
+

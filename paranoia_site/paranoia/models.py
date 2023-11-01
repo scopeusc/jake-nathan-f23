@@ -1,14 +1,16 @@
 from django.db import models
 
 # Question:
-# text
+# ---------
+# question_text -
 # date
 
 # Answer
+# ------
 # Question
-# Username
-# Date
-# Answer Text
-# IsRevealed
+# answer_text
+# username
+# date
+# isRevealed
 
 

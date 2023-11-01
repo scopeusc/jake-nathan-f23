@@ -1,5 +1,7 @@
 from django.db import models
 
+# https://docs.djangoproject.com/en/4.2/ref/models/fields/
+
 # Question:
 # ---------
 # question_text - CharField
